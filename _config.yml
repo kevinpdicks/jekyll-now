@@ -17,9 +17,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  github: github.com/kevinpdicks
-  linkedin: linkedin.com/in/kdicks/
-  twitter: twitter.com/kevinpdicks
+  github: kevinpdicks
+  linkedin: kdicks
+  twitter: kevinpdicks
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
