@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Penetration Tester.
+I am a Security Researcher, Penetration Tester, Bug Bounty Hacker and CTF player.
 
 ### More Information
 
-Infrastructure, Web Applications, Mobile Applications.
-
-### Contact me
-
-Twitter: twitter.com/kevinpdicks
+A blog about penetration testing across infrastructure, web, and mobile applications.
