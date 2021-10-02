@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Penetration Tester
+Penetration Tester.
 
 ### More Information
 
-Infrastructure | Web Applications | Mobile Applications
+Infrastructure, Web Applications, Mobile Applications.
 
 ### Contact me
 
