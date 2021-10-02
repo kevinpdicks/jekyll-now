@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Penetration Tester
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Infrastructure | Web Applications | Mobile Applications
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Twitter: https://twitter.com/kevinpdicks
