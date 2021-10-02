@@ -12,4 +12,4 @@ Infrastructure, Web Applications, Mobile Applications.
 
 ### Contact me
 
-Twitter: https://twitter.com/kevinpdicks
+Twitter: twitter.com/kevinpdicks
