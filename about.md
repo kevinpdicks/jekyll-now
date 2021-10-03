@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A blog about penetration testing across infrastructure, web, and mobile applications. Blog updates will cover security research; CVEs; bug bounties, and CTF content.
+A blog about penetration testing across infrastructure, web, and mobile applications. New blog updates will cover security research; CVEs; bug bounties, and CTF content.
 
 ### More Information 
 
